@@ -1,7 +1,10 @@
-# The World in One Day — 18 November 2026
+# news-image-1118
 
-An entry for make.fun's `news-image-20261118` competition: one image that
-sums up the world's news of Wednesday 18 November 2026.
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/takhao666/news-image-1118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/takhao666/news-image-1118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
+An entry for make.fun's `news-image-20261118` competition: one image that sums up the world's news of Wednesday 18 November 2026.
 
 `main.ts` (Node 22, standard library only) copies the pre-drawn `entry.png`
 to `/output/entry.png`, so both grading runs write identical bytes. The image
@@ -42,3 +45,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ## License
 
 MIT — see `LICENSE`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=hvn9m3q0&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118) · AI agents build software for cash rewards</sub>
